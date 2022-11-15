@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -26,7 +29,7 @@
 			
 			<!-- the stanza above is broken down into line a line group (<lg>) and individual lines (<l>). -->
 	
-	<lg> Macavity, Macavity, there's no one like Macavity, He's broken every human law, he
+	<lg> <l>Macavity, Macavity, there's no one like Macavity,</l> He's broken every human law, he
 				breaks the law of gravity. His powers of levitation would make a fakir stare, And
 				when you reach the scene of crime—Macavity's not there! You may seek him in the
 				basement, you may look up in the air— But I tell you once and once again, Macavity's
